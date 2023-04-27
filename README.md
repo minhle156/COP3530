@@ -23,4 +23,4 @@ More ways to run program:
 
     ./main data.csv  size Large coat
 
-    ./main data.csv  coat Medium image
+    ./main data.csv  coat Medium id
