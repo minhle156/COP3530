@@ -326,5 +326,7 @@ int main(int argc, char* argv[]) {
 	printData(dataset2, "quicksort.html");
 	checkOrder(dataset2, sortField);
 
+	system("open mergesort.html quicksort.html");
+
     return 0;
 }
