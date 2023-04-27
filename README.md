@@ -7,7 +7,7 @@ To compile program:
     
 To uncompress data.csv before running program:
 
-    unzip ./build/data.csv.zip
+    unzip ./data/data.csv.zip
 
 To run program:
 
